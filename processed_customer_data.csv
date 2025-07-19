@@ -1,0 +1,11 @@
+CustomerID,Age,Salary,Name_Bob,Name_Charlie,Name_David,Name_Eva,Name_Frank,Name_Grace,Name_Hannah,Name_Ian,Name_Julia,Gender_Male,City_Chennai,City_Delhi,City_Mumbai
+-1.5666989036012806,-1.428784244945559,-1.8904819415304044,False,False,False,False,False,False,False,False,False,False,False,True,False
+-1.2185435916898848,-0.754829412424069,-0.28837860125040066,True,False,False,False,False,False,False,False,False,True,False,False,True
+-0.8703882797784892,-0.215665546406877,-1.0894302713904025,False,True,False,False,False,False,False,False,False,True,False,True,False
+-0.5222329678670935,1.267035085140401,0.5126730688896012,False,False,True,False,False,False,False,False,False,True,False,False,False
+-0.17407765595569785,-0.080874579902579,1.313724739029603,False,False,False,True,False,False,False,False,False,False,False,False,True
+0.17407765595569785,-0.215665546406877,0.032042066805600074,False,False,False,False,True,False,False,False,False,True,False,True,False
+0.5222329678670935,1.9409899176618912,0.032042066805600074,False,False,False,False,False,True,False,False,False,False,True,False,False
+0.8703882797784892,-1.024411345432665,-0.6087992693064014,False,False,False,False,False,False,True,False,False,False,True,False,False
+1.2185435916898848,0.8626621856275071,0.3524627348616008,False,False,False,False,False,False,False,True,False,True,False,False,False
+1.5666989036012806,-0.350456512911175,1.6341454070856039,False,False,False,False,False,False,False,False,True,False,False,False,True

@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Salary,Gender,City
+1001,Alice,25,50000,Female,Delhi
+1002,Bob,30,60000,Male,Mumbai
+1003,Charlie,,55000,Male,Delhi
+1004,David,45,65000,Male,Bangalore
+1005,Eva,35,70000,Female,Mumbai
+1006,Frank,,62000,Male,Delhi
+1007,Grace,50,,Female,Chennai
+1008,Hannah,28,58000,Female,Chennai
+1009,Ian,42,64000,Male,Bangalore
+1010,Julia,33,72000,Female,Mumbai
